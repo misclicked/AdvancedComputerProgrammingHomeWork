@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\misclicked\Desktop\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Assignment 7\com.python.pydev.analysis\v2_indexcache
+MyLib.WebFunction|1556768159456000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\MyLib\WebFunction.py
+MyLib.FileDiff|1557371628334617000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\MyLib\FileDiff.py
+Test|1557371724641922000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\Test.py
+MyLib.__init__|1556768044610000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\MyLib\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=MyLib.WebFunction
+3=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\MyLib\WebFunction.py
+2=MyLib.FileDiff
+1=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 7\MyLib\FileDiff.py
+-- END DICTIONARY
+-- START TREE 1
+2
+fil|1|FileDiff!1^6#5*18@
+str|1|StringInWebsite!3^7#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

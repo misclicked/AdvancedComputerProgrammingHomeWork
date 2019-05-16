@@ -1,0 +1,9 @@
+import random
+def getRandList(l,r,n,**option):
+    if(option.get("seed")!=nil):
+        random.seed(option.get("seed"))
+    for i in range(n):
+        yield random.randint(l,r)
+
+print(*getRandList(5, 18, 12, seed=21))
+    

@@ -1,0 +1,8 @@
+import random
+def getRandList(l,r,n,**option):
+    random.seed(option.get("seed"))
+    for i in range(n):
+        yield random.randint(l,r)
+
+print(*getRandList(5, 18, 12))
+    

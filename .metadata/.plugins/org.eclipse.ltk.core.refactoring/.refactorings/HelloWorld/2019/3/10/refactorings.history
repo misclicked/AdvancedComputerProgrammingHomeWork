@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;HelloWorld/minimum.cpp&apos; to &apos;Minimum.cpp&apos;" description="Rename resource &apos;minimum.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="minimum.cpp" name="Minimum.cpp" stamp="1551930802961" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;HelloWorld/minimum.h&apos; to &apos;Minimum.h&apos;" description="Rename resource &apos;minimum.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="minimum.h" name="Minimum.h" stamp="1551930810029" updateReferences="true"/>
+</session>

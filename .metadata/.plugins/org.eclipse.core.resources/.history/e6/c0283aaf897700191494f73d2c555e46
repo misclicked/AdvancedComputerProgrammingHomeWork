@@ -1,0 +1,9 @@
+'''
+Created on 2019/5/2
+
+@author: misclicked
+'''
+import MyLib.MyMath as mth
+mth.ContinuousSum(2.2)
+mth.ContinuousSum(100)
+mth.ContinuousSum(-2)
