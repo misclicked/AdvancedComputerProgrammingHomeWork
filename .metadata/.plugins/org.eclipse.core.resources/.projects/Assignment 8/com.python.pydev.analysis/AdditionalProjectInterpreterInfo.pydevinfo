@@ -2,21 +2,26 @@
 -- START DISKCACHE_2
 C:\Users\misclicked\Desktop\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Assignment 8\com.python.pydev.analysis\v2_indexcache
 MyLib.WebFunction|1556768159456000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\WebFunction.py
+MyLib.MyMath|1557977416473732000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\MyMath.py
 MyLib.FileDiff|1557371628334000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\FileDiff.py
-Test|1557371724641000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\Test.py
+Test|1557976946110158000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\Test.py
 MyLib.__init__|1556768044610000000|C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-4
-4=MyLib.WebFunction
-1=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\FileDiff.py
-2=MyLib.FileDiff
-3=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\WebFunction.py
+6
+6=MyLib.WebFunction
+2=MyLib.MyMath
+3=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\FileDiff.py
+4=MyLib.FileDiff
+1=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\MyMath.py
+5=C:\Users\misclicked\Desktop\eclipse-workspace\Assignment 8\MyLib\WebFunction.py
 -- END DICTIONARY
 -- START TREE 1
-2
-fil|1|FileDiff!1^6#5*18@
-str|1|StringInWebsite!3^7#5*34@
+4
+con|1|ContinuousSum!1^15#5*18@
+dch|1|DCheckArgIsIntegerAndGreaterThenZero!1^2#5*18@
+fil|1|FileDiff!3^6#5*34@
+str|1|StringInWebsite!5^7#5*50@
 -- END TREE
 -- START TREE 2
 0

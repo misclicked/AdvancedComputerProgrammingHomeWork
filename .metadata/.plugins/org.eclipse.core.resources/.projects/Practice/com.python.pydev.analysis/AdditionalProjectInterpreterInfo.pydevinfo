@@ -1,7 +1,7 @@
 -- VERSION_5
 -- START DISKCACHE_2
 C:\Users\misclicked\Desktop\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Practice\com.python.pydev.analysis\v2_indexcache
-main|1557134744587973000|C:\Users\misclicked\Desktop\eclipse-workspace\Practice\main.py
+main|1557973796444500000|C:\Users\misclicked\Desktop\eclipse-workspace\Practice\main.py
 -- END DISKCACHE
 -- START DICTIONARY
 2
@@ -9,11 +9,8 @@ main|1557134744587973000|C:\Users\misclicked\Desktop\eclipse-workspace\Practice\
 2=main
 -- END DICTIONARY
 -- START TREE 1
-4
-ans|1|ans!1^6#1*19@
-fla|1|flag!1^5#1*19@
-len|1|len!1^8#1*19@
-pro|1|proba!1^7#1*19@
+1
+get|1|getRandList!1^2#5*18@
 -- END TREE
 -- START TREE 2
 0
